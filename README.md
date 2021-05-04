@@ -281,11 +281,15 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 
 ## Our Sponsorship and Contribution Policy
 
+> As a social enterprise, Fosshost exists to serve the public good. As such, we accept donations of hardware, et al in order to offer free hosting for our tenants and projects ("Sponsorship"). 
+> 
+> Fosshost also offers a unique public option, a Public Betterance share. For each share of $100, shareholders receive one seat on the Council of Shareholders. Those on the Council may rest secure in the knowledge that they are making it possible for Fosshost to provide even more resources to the free and open-source software community by continuing to establish new nodes and additional virtualization infrastructure. Councilmembers will receive annual financial reports, updates from projects and tenants as available, and will have a direct feedback pipeline to the Board of Directors. Our Council will also be featured on our website with a photo of their choice. Additional benefits of council membership include <moar benefits here, if any>. 
 
 <a id="org59f505c"></a>
 
 ## Our Deliberation and Record Keeping ("Privacy") Policy
 
+>If deliberation becomes necessary at any point, Fosshost will make every effort to resolve the issue in a fair and equitable manner using every resource at it's disposal. To that end, records of tenants will be kept <in perpetuity?>. Copies of virtual machines, files, or other items will not be retained by Fosshost and it is the responsibility of the tenant to undertake activities which ensure sufficient backups exist. 
 
 <a id="orge9af4a1"></a>
 
